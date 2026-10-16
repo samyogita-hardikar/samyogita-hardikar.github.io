@@ -1,6 +1,6 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
+  name: Samyogita Hardikar
+  label: Cognitive Neuroscientest
   email: einstein@example.com
   location: Princeton, NJ
   image: ""
@@ -23,60 +23,60 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: MPI for Human Cognitive and Brain Sciences
+        location: Leipzig, Germany
+        url: https://www.cbs.mpg.de/en
+        area: Cognitive Neuroscience
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+        start_date: 2012
+        end_date: 2018
+        score: Magna cum Laude
+        courses: ""
         highlights:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of York
+        location: York, UK
+        area: Cognitive Neuroscience
+        studyType: MSc.
+        start_date: 2008
+        end_date: 2009
         highlights:
           - Description 1.
           - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Queen's University
+        position: Postdoctoral Fellow
+        location: Kingston, Canada
+        start_date: 2024
+        end_date: present
+        summary: ""
         highlights:
           - Relativity
           - Description 2.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: MPI for Human Cognitive and Brain Sciences
+        position: Postdoctoral Fellow
+        location: Leipzig, Germany
+        start_date: 2019
+        end_date: 2024
         highlights:
           - Description 1.
           - Description 2.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Max Planck School of Cognition
+        position: E-learning Officer
+        location: Leipzig, Germany
+        start_date: 2019
+        end_date: 2020
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Child Guidance Centre, Sahyadri Hospitals
+        position: Assistant Psychologist/ Projects coordinator
+        location: Pune, India
+        start_date: 2010
+        end_date: 2011
 
       - company: University of Zurich
         position: Associate Professor of Theoretical Physics
